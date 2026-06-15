@@ -1,6 +1,6 @@
 # Trabalhos de Inteligência Artificial - Professor Munif - Unicesumar 2026
 
-Aqui têm o trabalho principal final da matéria sendo um comparativo entre o modelo de árvores de decisão e random forest com bagging, e também contém os collabs que vimos durante o bimesetre...
+Aqui têm o trabalho principal final da matéria sendo um comparativo entre o modelo de árvores de decisão e random forest com bagging, e também contém os collabs que vimos durante o bimestre...
 
 Integrantes
 - Miguel Drozino - RA: 23155078-2
